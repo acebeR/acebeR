@@ -14,14 +14,15 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
-
+-->
 <br/>
-<div class="row">
-    <div class="col-md-6">
-        <h4>No momento estou trabalhando: </h4>
-    </div>
-    <div>
-        <img src="http://whatsrel.com.br/wp-content/uploads/2018/10/stefanini.png" style="border-radius: 50%;" alt=""/>
-    </div>
-</div> -->
-   
+<table>
+  <tr>
+    <th>No momento estou trabalhando</th>
+    <th>atualmente estou aprendendo</th>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/33354360/177231251-8b15baf6-b74e-4c80-a294-d315ec8fb9db.png" height="100"  alt=""/></td>
+    <td><img src="https://user-images.githubusercontent.com/33354360/177231251-8b15baf6-b74e-4c80-a294-d315ec8fb9db.png" height="100"  alt=""/></td>
+  </tr>
+</table
