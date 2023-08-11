@@ -11,9 +11,9 @@
 <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"   alt=""/>
 <br/><br/>
 
-
 Tecnologias em que possuo experiência:
 <br/>
+
 <a href="https://github.com/acebeR/angular13">
 <img src="https://user-images.githubusercontent.com/33354360/177233303-07a8ecf2-9cc1-4a09-bebc-32436da2bbb4.png" height="90"  alt="angular13"/>
 <a href="https://github.com/acebeR/ChatListView">
@@ -27,7 +27,8 @@ Tecnologias em que possuo experiência:
 <a href="https://github.com/acebeR/Desafio_Mirante_Angular_Spring_Boot">
 <img src="https://user-images.githubusercontent.com/33354360/177233611-c73f54cf-ef77-49a9-8658-0c7dfc9429e3.png" height="90"  alt="Desafio_Mirante_Angular_Spring_Boot"/>
 <img src="https://user-images.githubusercontent.com/33354360/177233698-aeaab342-f9c2-4a70-ac1c-75b4861cd955.png" height="90"  alt=""/>
-<img src="https://user-images.githubusercontent.com/33354360/177236817-442bc585-5ade-4ff1-adf7-8620b28feb02.png" height="90"  alt=""/>
+<img src="https://user-images.githubusercontent.com/33354360/177236817-442bc585-5ade-4ff1-adf7-8620b28feb02.png" height="90"  alt=""/>    
+
 <br/>
 
 Para contato:
