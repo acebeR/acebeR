@@ -30,8 +30,11 @@
 <img src="https://user-images.githubusercontent.com/33354360/177233698-aeaab342-f9c2-4a70-ac1c-75b4861cd955.png" height="90"  alt="cursoSQL"/>
 <img src="https://user-images.githubusercontent.com/33354360/177236817-442bc585-5ade-4ff1-adf7-8620b28feb02.png" height="90"  alt=""/>    
 
-<br/>
+<br/><br/>
 
+<a href="https://github.com/acebeR/angular13">Recentemente estudando Angular 13, acompanhe no compilado de projetos! </a>
+
+<br/><br/>
 Para contato:
 <br/>
 <a href="https://www.linkedin.com/feed/">
