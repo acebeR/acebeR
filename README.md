@@ -11,6 +11,12 @@
 <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"   alt=""/>
 <br/><br/>
 
+| Contato     | Curriculo | Instagram
+| ---      | ---       | ---
+| <a href="https://www.linkedin.com/feed/"><img src="https://user-images.githubusercontent.com/33354360/177234456-a55e2ee0-1d8a-4e4c-96e8-43479e3c1479.png" height="80"  alt=""/></a> | <a href="https://github.com/acebeR/acebeR/blob/main/curriculo/Curriculo_Rebeca_Carvalhedo.pdf"><img src="https://github.com/acebeR/acebeR/blob/main/imgs/cv.png?raw=true" height="60"  alt="Curriculo_Rebeca_Carvalhedo.pdf"/></a>         | <a href="https://www.instagram.com/rebecadivina/"><img src="https://github.com/acebeR/acebeR/blob/main/imgs/instagram.webp" height="90"  alt="instagram.webp"/></a>|
+
+<br/><br/>
+
 <h3> Tecnologias em que possuo experiência: </h3>
 <h6> Click e confira os projetos correspondentes as tecnologias. </h6>
 <br/><br/>
@@ -32,15 +38,12 @@
 
 <br/><br/>
 
-<a href="https://github.com/acebeR/angular13">Recentemente estudando Angular 13, acompanhe no compilado de projetos! </a>
+<h3> Recentemente estudando Angular 13 </h3> 
+<img src="https://i.pinimg.com/originals/7f/ab/4b/7fab4b4d5c13c314de7c9c49b234ac98.gif" height="90"  alt=""/>    
+<br/>
+<a href="https://github.com/acebeR/angular13">Link: Acompanhe no compilado de projetos! </a>
 
 <br/><br/>
-Para contato:
-<br/>
-<a href="https://www.linkedin.com/feed/">
-<img src="https://user-images.githubusercontent.com/33354360/177234456-a55e2ee0-1d8a-4e4c-96e8-43479e3c1479.png" height="80"  alt=""/></a>
-<br/>
-<br/>
 <div>
 <a href="https://github.com/acebeR">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acebeR&layout=compact&langs_count=7&theme=dracula"/>
