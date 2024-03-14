@@ -41,10 +41,10 @@
 
 <br/><br/>
 
-<h3> Recentemente estudando Angular 13 </h3> 
+<h3> Recentemente estudando Python </h3> 
 <img src="https://i.pinimg.com/originals/7f/ab/4b/7fab4b4d5c13c314de7c9c49b234ac98.gif" height="90"  alt=""/>    
 <br/>
-<a href="https://github.com/acebeR/angular13">Link: Acompanhe no compilado de projetos! </a>
+<a href="https://github.com/acebeR/Python3">Link: Acompanhe no compilado de projetos! </a> 
 
 <br/><br/>
 <div>
