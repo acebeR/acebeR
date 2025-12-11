@@ -13,7 +13,7 @@
 
 | Contato     | Curriculo | Instagram
 | ---      | ---       | ---
-| <a href="https://www.linkedin.com/feed/"><img src="https://user-images.githubusercontent.com/33354360/177234456-a55e2ee0-1d8a-4e4c-96e8-43479e3c1479.png" height="50"  alt=""/></a> | <a href="https://github.com/acebeR/acebeR/blob/main/curriculo/Curriculo_Rebeca_Carvalhedo.pdf"><img src="https://github.com/acebeR/acebeR/blob/main/imgs/cv.png?raw=true" height="50"  alt="Curriculo_Rebeca_Carvalhedo.pdf"/></a>         | <a href="https://www.instagram.com/rebecadivina/"><img src="https://github.com/acebeR/acebeR/blob/main/imgs/instagram.webp" height="50"  alt="instagram.webp"/></a>|
+| <a href="https://www.linkedin.com/feed/"><img src="https://user-images.githubusercontent.com/33354360/177234456-a55e2ee0-1d8a-4e4c-96e8-43479e3c1479.png" height="50"  alt=""/></a> | <a href="https://github.com/acebeR/acebeR/blob/main/curriculo/Rebeca Carvalhedo.pdf"><img src="https://github.com/acebeR/acebeR/blob/main/imgs/cv.png?raw=true" height="50"  alt="Curriculo_Rebeca_Carvalhedo.pdf"/></a>         | <a href="https://www.instagram.com/rebecadivina/"><img src="https://github.com/acebeR/acebeR/blob/main/imgs/instagram.webp" height="50"  alt="instagram.webp"/></a>|
 
 <br/><br/>
 
